@@ -3,6 +3,9 @@
 # Unit 1, Exercise 3 work from Code as a Liberal Art, Spring 2021
 #
 # originally carmen3.py in this repo.
+# 
+# These adaptations were made as a collaboration between Miranda Elder (@mirandaelder)
+# and Rory Solomon (@rors)
 
 import sys
 from PIL import Image
